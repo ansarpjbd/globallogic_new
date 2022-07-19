@@ -1,0 +1,39 @@
+package com.globallogic.day3;
+
+//one java file can have multiple classes 
+//when you compile it you will have multiple .class files 
+
+//Inheritance :  where one class extends the properites of another class
+//Format the Code : Ctrl+Shift+F
+//type :
+class A {
+	public void printA() {
+		System.out.println("class A");
+	}
+}
+//perform the inheritance : it will extends the base class properites to child class
+class B {
+	public void printB() {
+		System.out.println("class B");
+	}
+}
+
+class C {
+
+}
+//
+
+//keep for main method
+public class MyInheritance {
+
+	public static void main(String[] args) {
+ 
+		A a=new A();
+		a.printA();
+		
+		B b=new B();
+		b.printB();
+		
+		
+	}
+}

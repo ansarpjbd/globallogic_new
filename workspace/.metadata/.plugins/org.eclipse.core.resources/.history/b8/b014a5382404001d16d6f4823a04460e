@@ -1,0 +1,39 @@
+package com.globallogic.day3;
+//Abstraction --it is concept or idea which needs to implements 
+
+//interface--it is used to perform the Abstraction in java
+    //it will have the abstract method only --that means we will have the concept only
+interface Mobile
+{
+ public void calling();
+ public void sendSMS();
+}
+//calling and sendsms
+class Apple implements Mobile
+{
+
+	//implement the unimplemented method
+	@Override
+	public void calling() {
+		// TODO Auto-generated method stub
+		System.out.println("calling ");
+	}
+
+	@Override
+	public void sendSMS() {
+		// TODO Auto-generated method stub
+		System.out.println("send sms");
+	}
+	
+}
+
+
+public class MyInterface {
+ 
+	public static void main(String[] args) {
+		
+		Apple apple=new Apple();
+		apple.calling();
+		apple.sendSMS();
+	}
+}

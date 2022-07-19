@@ -1,0 +1,14 @@
+package com.globallogic.day3;
+
+//final keyword can be used
+//class
+//variable
+//method
+//it will used with class : this class become the final and you can cannot extends the class
+
+
+public class MyFinal {
+public static void main(String[] args) {
+	
+}
+}

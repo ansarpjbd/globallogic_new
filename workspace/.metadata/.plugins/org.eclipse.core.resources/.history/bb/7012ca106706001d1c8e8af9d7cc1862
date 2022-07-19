@@ -1,0 +1,14 @@
+package com.globallogic.day5;
+
+//Byte class--
+
+
+public class MyByte {
+public static void main(String[] args) {
+	
+	Byte b1=new Byte((byte)1);
+	
+	System.out.println(Byte.MIN_VALUE);
+	System.out.println(Byte.MAX_VALUE);
+}
+}

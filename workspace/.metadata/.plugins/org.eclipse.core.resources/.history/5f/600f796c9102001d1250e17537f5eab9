@@ -1,0 +1,14 @@
+package com.globallogic.helloworld;
+
+//Identifier --Identifier is the name which is use to identiy anything
+            //Identifier can be user with class
+           //Identifier can be used with method name
+           //identifier can be use with variables
+
+//Rules:
+
+//class Identifier 
+
+public class MyIdentifer {
+
+}

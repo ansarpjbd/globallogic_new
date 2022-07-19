@@ -1,0 +1,51 @@
+package com.globallogic.day2;
+
+
+//Rule1 : Your Public class name and file name should be same
+        // there should be only one public class in one java files
+        //your public will contain the main method
+
+//Class---class is blueprint for object
+
+//create a print of home
+//Any number of house from the blueprint
+//all the house will have common structre 
+//you will always create a object of class first
+        //use the .(dot) with variable name or method to access
+
+//Access Secfifer with class
+//add with variable
+//add with method also
+		class Employee
+{
+   //member variable of class
+  public int id;
+  public String name;
+  public double salary;
+}
+
+
+public class MyClass {
+
+	//member variable
+	  //any 
+	     //primitive data are build in datatype supported in java  int ,float, double
+	     //no primitive-->userdefined String , Array, Class, List , Collections
+	   
+	
+	//methods
+	
+	
+     public static void main(String[] args) {
+		//Object --any real time entity which has properites and behaviour 
+    	 Employee ravinder=new Employee();
+    	 ravinder.id=1000;
+    	 ravinder.name="Ravinder";
+    	 ravinder.salary=10.05;
+    	 
+    	 System.out.println("Id "+ravinder.id);
+    	 System.out.println("name "+ravinder.name);
+    	 System.out.println("salary "+ravinder.salary);
+	}
+	
+}

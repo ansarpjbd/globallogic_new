@@ -1,0 +1,5 @@
+package com.globallogic.day3;
+//encapsulation : it says there is a single unit and private propteries which can be access by class method only
+public class MyEncapsulation {
+
+}

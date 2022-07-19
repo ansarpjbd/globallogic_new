@@ -1,0 +1,54 @@
+
+d	java:S106("9Replace this use of System.out or System.err by a logger.(êî¿ßH”	RMAJORZ
+CODE_SMELL
+R
+java:S2129#"!Remove this "Integer" constructor(ÒİËÙûÿÿÿÿH•	RMAJORZ
+CODE_SMELL
+O
+java:S2129"Remove this "Byte" constructor(œ„®·ûÿÿÿÿH–	RMAJORZ
+CODE_SMELL
+d	java:S1060"9Replace this use of System.out or System.err by a logger.(ı–®H—	RMAJORZ
+CODE_SMELL
+i	java:S1062"9Replace this use of System.out or System.err by a logger.(áÏùşÿÿÿÿH˜	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(­µ³îH™	RMAJORZ
+CODE_SMELL
+f
+java:S2209:"5Change this instance-reference to a static reference.(í´õíøÿÿÿÿHš	RMAJORZ
+CODE_SMELL
+T
+java:S21294"#Remove this "Character" constructor(Û¸ÎøøÿÿÿÿH	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÏÜ»H	RMAJORZ
+CODE_SMELL
+J
+java:S2129"Remove this "Byte" constructor(“œ–—HŸ	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(«Áî…H 	RMAJORZ
+CODE_SMELL
+a
+java:S22098"5Change this instance-reference to a static reference.(ìØË‡H¡	RMAJORZ
+CODE_SMELL
+f
+java:S2209;"5Change this instance-reference to a static reference.(—ÑúÊúÿÿÿÿH¤	RMAJORZ
+CODE_SMELL
+c	java:S106%"9Replace this use of System.out or System.err by a logger.(Öå–4H§	RMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿH¨	RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(îŠ«äşÿÿÿÿH©	RMAJORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(™Ü†£Hª	RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(œ™‹ÿH«	RMAJORZ
+CODE_SMELL
+i	java:S1066"9Replace this use of System.out or System.err by a logger.(Õø›«øÿÿÿÿH¬	RMAJORZ
+CODE_SMELL
+d	java:S1068"9Replace this use of System.out or System.err by a logger.(ìØË‡H­	RMAJORZ
+CODE_SMELL
+i	java:S106;"9Replace this use of System.out or System.err by a logger.(—ÑúÊúÿÿÿÿH®	RMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(‹ƒªúÿÿÿÿH¯	RMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(í´õíøÿÿÿÿH°	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+package com.globallogic.day5;
+
+//User Defined --those data type which are define by the user
+   //class --it is user defined data-type
+         //have any number variable which can hold the data 
+
+  //Array --it is used to hold same type of data
+  //ENUM  --it is also user defined data-type that is use to delcare the constant value
+public class MyUserDefined {
+
+}

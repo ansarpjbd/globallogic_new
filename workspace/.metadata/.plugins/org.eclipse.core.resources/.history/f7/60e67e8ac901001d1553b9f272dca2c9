@@ -1,0 +1,22 @@
+package com.globallogic.helloworld;
+//Package--it is keyword in java
+//package name--
+
+
+//public   --it is keyword in java
+          //it is access Modifier
+         //it define the sope of class where it will be accessed 
+        //it will be accessed by another other class or world
+//private
+//protected
+//default
+
+
+//class --it is keyword
+      //it is use to declare the class
+                            //class name
+public class                HelloWord {
+
+	
+	
+}

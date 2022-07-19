@@ -1,0 +1,9 @@
+package com.globallogic.day3;
+
+//Hierarchical --one class will be extedns by two or more class
+public class MyHierarchical {
+
+	public static void main(String[] args) {
+		
+	}
+}

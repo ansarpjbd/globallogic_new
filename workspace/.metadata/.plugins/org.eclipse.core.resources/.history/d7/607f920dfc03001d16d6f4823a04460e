@@ -1,0 +1,56 @@
+package com.globallogic.day3;
+
+//one java file can have multiple classes 
+//when you compile it you will have multiple .class files 
+
+//Inheritance :  where one class extends the properites of another class
+//Format the Code : Ctrl+Shift+F
+
+//type : Single inheritance
+
+//Super keyword : will be used only when we perform the inheritance
+                //it is use to call the variable and method of parent class
+                //call the constructor of parent class
+class A {
+	
+	int id=10;
+	
+ 	public void printA() {
+		System.out.println("class A");
+	}
+	
+}
+//perform the inheritance : it will extends the base class properites to child class
+
+//use extends keyword and then class Name
+class B extends A {
+	public void printB() {
+		System.out.println("class B");
+	}
+}
+
+class C {
+
+}
+//
+
+//keep for main method
+public class MyInheritance {
+
+	public static void main(String[] args) {
+ 
+		/*
+		 * A a=new A(); a.printA();
+		 */
+		
+		B b=new B();
+		//coming from class b
+		b.printB();
+		//coming from class A method
+		b.printA();
+		
+		//class A variable
+	    System.out.println(b.id);
+		
+	}
+}

@@ -1,0 +1,10 @@
+package com.globallogic.day3;
+
+class Employee
+{
+	
+}
+
+public class MyStatic {
+
+}

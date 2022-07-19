@@ -1,0 +1,25 @@
+package com.globallogic.day3;
+
+//abstract class : i can have the abstract and non abstract method in the abstract class
+             //calling
+             //sendsms()
+             //brand ()  abstract
+abstract class ChinaMobile
+{
+	public void calling()
+	{
+		System.out.println("calling ");
+	}
+	public void sendsms()
+	{
+		System.out.println("send sms");
+		
+	}
+	abstract void brand();
+}
+
+
+
+public class AbstractClass {
+
+}

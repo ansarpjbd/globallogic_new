@@ -1,0 +1,14 @@
+package com.globallogic.day3;
+
+
+class A
+{
+	
+}
+
+public class MyMultlevel {
+	
+public static void main(String[] args) {
+	
+}
+}

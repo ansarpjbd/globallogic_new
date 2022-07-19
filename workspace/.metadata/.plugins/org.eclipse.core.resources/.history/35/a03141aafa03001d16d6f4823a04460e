@@ -1,0 +1,38 @@
+package com.globallogic.day3;
+
+
+class A1
+{
+public void pritnA()
+{
+	System.out.println("Class A1");
+}
+}
+class B1
+{
+	public void pritnB()
+	{
+		System.out.println("Class B1");
+	}
+}
+class C1
+{
+	public void pritnC()
+	{
+		System.out.println("Class C1");
+	}	
+	
+}
+class D1
+{
+	public void pritnD()
+	{
+		System.out.println("Class D1");
+	}
+}
+public class MyMultlevel {
+	
+public static void main(String[] args) {
+	
+}
+}

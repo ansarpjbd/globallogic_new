@@ -1,0 +1,21 @@
+package com.globallogic.day5;
+
+//Byte class--
+
+
+public class MyByte {
+public static void main(String[] args) {
+	
+	//created the primitive  class variable
+	byte b=4;
+	
+	//created the Byte class object from primitive variable
+	Byte b1=new Byte(b);
+	
+	
+	System.out.println(Byte.MIN_VALUE);
+	System.out.println(Byte.MAX_VALUE);
+	//get double value of byte
+	System.out.println(b1.doubleValue());
+}
+}

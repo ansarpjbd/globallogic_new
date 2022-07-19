@@ -1,0 +1,25 @@
+package com.globallogic.day2;
+
+import java.util.Scanner;
+
+//Scanner--address of class  java.util
+          //java.util
+          //it was introduce in 1.5 (1996)
+         //it is used to take the input and read it (keyword, internet, file)
+         //
+public class MyScanner {
+public static void main(String[] args) {
+	
+	//classname   object   assigment    //memory allocation of object     constructor  //inputparamters
+	Scanner       sc        =           new                                 Scanner(System.in);
+
+    //access the method of class
+	 //using the dot(.)
+	  //sc.nextInt()  //read the int value and return it
+	System.out.println("Enter the int value");
+	System.out.println("entered values is "+sc.nextInt());
+	
+	int a=sc.nextInt();
+	System.out.println(a);
+}
+}

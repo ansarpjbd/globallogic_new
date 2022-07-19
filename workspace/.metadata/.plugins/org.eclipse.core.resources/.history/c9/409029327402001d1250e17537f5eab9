@@ -1,0 +1,23 @@
+package com.globallogic.helloworld;
+
+public class MyDataType {
+
+	
+	public static void main(String[] args) {
+		
+		//writing operation
+		//Type mismatch: cannot convert from int to boolean
+		boolean b=true;
+		
+		
+		//reading the boolean data
+		System.out.println(b);
+		
+		//Type mismatch: cannot convert from int to byte
+		byte bb=-128;
+		System.out.println(bb);
+		
+		
+		
+	}
+}

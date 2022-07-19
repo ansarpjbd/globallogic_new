@@ -1,0 +1,13 @@
+package com.globallogic.day3;
+
+//
+
+
+//
+//keep for main method
+public class MyInheritance {
+
+	public static void main(String[] args) {
+		
+	}
+}

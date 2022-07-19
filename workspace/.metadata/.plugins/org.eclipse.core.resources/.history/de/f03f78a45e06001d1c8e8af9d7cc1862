@@ -1,0 +1,45 @@
+package com.globallogic.day5;
+
+//Polymorphism --it is combined with two words
+//poly means many
+//morphism --forms
+
+//our application or class is capable to take any form at any time
+
+//Entity //Trainers 
+//Employee 
+//Person
+
+//there is change in the behaviour 
+
+//method overloading
+//method overriding -- //you should have implemented the inheritance for method overriding 
+//
+
+class Person {
+	public void work() {
+		System.out.println("I am doing Person Work");
+	}
+}
+
+class School extends Person {
+	public void work() {
+		System.out.println("I am doing the School Work");
+	}
+}
+
+class Office extends Person {
+	public void work() {
+		System.out.println("I am doing the office Work");
+	}
+}
+
+public class MyPolymorphism {
+
+	public static void main(String[] args) {
+
+		Person ravinder=new Person();
+		//call the person class work method
+		ravinder.work();
+	}
+}

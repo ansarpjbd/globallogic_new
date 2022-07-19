@@ -1,0 +1,11 @@
+
+o	java:S1060"9Replace this use of System.out or System.err by a logger.(ËğËÏúÿÿÿÿ8¹£ìŸ0H'RMAJORZ
+CODE_SMELL
+_	java:S108,")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Ì×ëŸ0H(RMAJORZ
+CODE_SMELL
+a
+java:S1197%"*Move the array designators [] to the type.(İŒ¦îüÿÿÿÿ8Ì×ëŸ0H)RMINORZ
+CODE_SMELL
+d
+java:S1199,"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ì×ëŸ0H,RMINORZ
+CODE_SMELL

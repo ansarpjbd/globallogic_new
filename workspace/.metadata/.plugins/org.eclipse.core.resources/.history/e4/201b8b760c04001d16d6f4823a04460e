@@ -1,0 +1,14 @@
+package com.globallogic.day3;
+//Static --when you add the static keyword then variable will store in heap memory
+//variable--when you used the static with variable that means it is common to all
+class Employee
+{
+ int id;
+ String name;
+ String cityName;
+	
+}
+
+public class MyStatic {
+
+}

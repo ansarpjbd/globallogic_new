@@ -1,0 +1,31 @@
+package com.globallogic.day3;
+
+//final keyword can be used
+//class
+  ////it will used with class : this class become the final and you can cannot extends the class
+
+//variable --it will become final we willnot able to change the value
+//method
+ class Base
+{
+	 final int salary=1000;
+	public void printA()
+	{
+		System.out.println("print A");
+	}
+}
+//Base call become final now
+//we will not able to extends this
+class child extends Base
+{
+	public void printB()
+	{
+		System.out.println("print B");
+	}
+}
+
+public class MyFinal {
+public static void main(String[] args) {
+	
+}
+}

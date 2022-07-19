@@ -1,0 +1,23 @@
+
+¶
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éÍÇê8É½ã·Ÿ0H>RCRITICALZ
+CODE_SMELL
+‰	java:S116$"SRename this field "LASTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûãÓúÿÿÿÿ8£›ı·Ÿ0HDRMINORZ
+CODE_SMELL
+ˆ
+java:S1845""TRename field "LastName" to prevent any misunderstanding/clash with field "lastName".(òÃ¬î8£›ı·Ÿ0HERBLOCKERZ
+CODE_SMELL
+„	java:S116""SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÃ¬î8£›ı·Ÿ0HBRMINORZ
+CODE_SMELL
+‰	java:S116#"SRename this field "LASTName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êüÀùÿÿÿÿ8£›ı·Ÿ0HCRMINORZ
+CODE_SMELL
+
+java:S1845#"TRename field "LASTName" to prevent any misunderstanding/clash with field "lastName".(êüÀùÿÿÿÿ8£›ı·Ÿ0HGRBLOCKERZ
+CODE_SMELL
+
+java:S1845$"TRename field "LASTNAME" to prevent any misunderstanding/clash with field "lastName".(ûãÓúÿÿÿÿ8£›ı·Ÿ0HIRBLOCKERZ
+CODE_SMELL
+ƒ	java:S116&"RRename this field "_salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Úã¶8ê¶¸Ÿ0HORMINORZ
+CODE_SMELL
+ˆ	java:S116'"RRename this field "$salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù’êÁùÿÿÿÿ8ê¶¸Ÿ0HPRMINORZ
+CODE_SMELL

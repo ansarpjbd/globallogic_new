@@ -1,0 +1,34 @@
+package com.globallogic.helloworld;
+
+//Identifier --Identifier is the name which is use to identiy anything
+            //Identifier can be user with class
+           //Identifier can be used with method name
+           //identifier can be use with variables
+
+//Rules:When you take the java class . 
+// First char should be capital ex. Demo
+//It there are two word togather
+      //Hello  Java ---First Char should be captial
+      //Second word's first char also should be captial
+
+//class Identifier 
+public class MyIdentifer {
+	
+	//class : variable
+	//method
+	
+	
+	//it start with small case
+	//next word will be captial
+	//identifier :firstName
+    String firstName;
+    String  lastName;
+    int age;
+    
+    //method
+    //method name will start with small char and if word is there you should take next char as captial
+    public void printData()
+    {
+    	
+    }
+}

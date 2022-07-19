@@ -1,0 +1,34 @@
+package com.globallogic.day2;
+
+//Top --down 
+//there is code which you want to repeat it.
+//Loops --it will repeat the accroding to some condition
+
+//pre-Condition
+//We should have starting point
+//int i=0;
+//condition where to break the loop
+//increment or decrement of loop
+
+public class MyLoops {
+
+	public static void main(String[] args) {
+
+		// For Loop
+		// for keyword
+		// we will take i,j,k ,l as variable
+		// int i --this will run once
+		// i<10; --it will check everytime
+		// i++ --it condition is return true it will execute eveytime
+		//it is entry control loop
+		for (int i = 0; i < 10; i++) // starting point
+		// condition
+		// increment or decrement
+		//for loop block
+			//body of loop
+		{
+			System.out.println("i am inside loop " + (i + 1));
+		}
+	}
+
+}

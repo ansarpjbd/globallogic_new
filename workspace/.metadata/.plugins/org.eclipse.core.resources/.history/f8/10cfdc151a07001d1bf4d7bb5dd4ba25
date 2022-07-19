@@ -1,0 +1,16 @@
+package com.globallogic.day5;
+
+//Array of Object
+//create a array of object atleast with 10 object
+
+class Student
+{
+	int id;
+	String name;
+	
+}
+
+
+public class ArrayOfObject {
+
+}

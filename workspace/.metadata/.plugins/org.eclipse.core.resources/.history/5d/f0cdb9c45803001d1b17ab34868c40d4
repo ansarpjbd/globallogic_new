@@ -1,0 +1,39 @@
+package com.globallogic.day2;
+
+
+//Rule1 : Your Public class name and file name should be same
+        // there should be only one public class in one java files
+        //your public will contain the main method
+
+//Class---class is blueprint for object
+
+//create a print of home
+//Any number of house from the blueprint
+//all the house will have common structre 
+
+
+ class Employee
+{
+	 //member variable of class
+   int id;
+   String name;
+   double salary;
+}
+
+
+public class MyClass {
+
+	//member variable
+	  //any 
+	     //primitive data are build in datatype supported in java  int ,float, double
+	     //no primitive-->userdefined String , Array, Class, List , Collections
+	   
+	
+	//methods
+	
+	
+     public static void main(String[] args) {
+		
+	}
+	
+}

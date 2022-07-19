@@ -1,0 +1,18 @@
+package com.globallogic.day2;
+
+
+//Class---class is blueprint for object
+
+//create a print of home
+//Any number of house from the blueprint
+//all the house will have common structre 
+
+public class MyClass {
+
+	//member variable
+	  //any 
+	     //primitive data are build in datatype supported in java  int ,float, double
+	     //no primitive-->userdefined String , Array, Class, List , Collections
+	//methods
+	
+}

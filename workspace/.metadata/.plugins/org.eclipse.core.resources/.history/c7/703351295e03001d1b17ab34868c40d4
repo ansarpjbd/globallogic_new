@@ -1,0 +1,23 @@
+package com.globallogic.day2;
+
+//Pojo is plain old java object
+public class MyPojo {
+
+	//which will get the value of vairable
+	public int getId() {
+		return id;
+		
+	}
+	//which will set the value of vairable
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	private int id;
+	private String name;
+}
