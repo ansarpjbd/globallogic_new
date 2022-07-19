@@ -1,0 +1,11 @@
+package com.globallogic.day5;
+
+
+class PositiveNumber
+{
+	
+}
+
+public class MyCustomException {
+
+}

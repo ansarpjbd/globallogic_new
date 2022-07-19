@@ -1,0 +1,14 @@
+package com.globallogic.day5;
+
+//extends the exception class 
+class PositiveNumber extends Exception
+{
+	public PositiveNumber(String msg)
+	{
+		super(msg);
+	}
+}
+
+public class MyCustomException {
+
+}

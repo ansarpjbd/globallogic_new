@@ -196,10 +196,46 @@ Boolean ---boolean
  
  //upload the code
  
+git init --it is used to intitalize the repo
+
+git add foldername --it is use to add the folder to github
+
+git commit -m "first commit"  #adding ther files to repo
+
+git branch -M main    //explain 
+
+//add the url with token
+ 
+#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
+
+git remote add origin https://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@github.com/ansarpjbd/globallogic_new.git
+
+git push -u origin main
+
+
  
  //download the code
 
+  git clone https://github.com/ansarpjbd/globallogic_new
+
+
+#Exception Handling : there can be situation when you code is running there will be problem in executing the code.
+
+      >Error --it stop the jvm (if error is there)
+	  >Exception--it is kind of error but this will not halt the jvm . 
+	            >Program will still run 
+				
+	> Resoruces which you are using	 got failed
+   >you should not stop the work
+   >search for alternative resources and start working again
+   
+   Full Flag Freamwork here for Exception
+   --> Throwable
+    --->  Exception
+	    --> Runtime Exception(Checked Exception)    --> IO Exception (Unchecked ) 
   
+				
+
 
 
 
