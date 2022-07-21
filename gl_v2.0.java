@@ -71,7 +71,11 @@ You have to give the Application Properties
           --next()
           --nextLine();
 
-     >Byte	  
+     >Wrapper
+     >String
+     >StringBuffer
+     >StringBuilder	 
+	 >Iterator  --it is use to iterate the different value (Array , Collections , other)
      
  
 #Keywords 
@@ -234,7 +238,18 @@ git push -u origin main
     --->  Exception
 	    --> Runtime Exception(Checked Exception)    --> IO Exception (Unchecked ) 
   
-				
+			
+Collection : it is freamwork in java 
+           : it is collections of classes:
+		   :it will help us to insert ,update , delete and manipluate the in easy ways
+		   :
+		   
+
+List
+Set
+
+		   
+			
 
 
 

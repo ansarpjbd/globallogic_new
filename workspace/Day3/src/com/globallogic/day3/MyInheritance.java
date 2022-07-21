@@ -36,6 +36,12 @@ class A {
 //use extends keyword and then class Name
 class B extends A {
 	
+	//decare the variable or inislaized 
+	int a=10;
+	//super(10,"string");
+	
+	//super.printA();
+	
 	public B(int id) {
 		//it wll call the class a constructor
 		super(10,"string");
@@ -66,7 +72,10 @@ public class MyInheritance {
 		/*
 		 * A a=new A(); a.printA();
 		 */
-
+        
+		//if you do have 
+		//B obj=new B();
+		
 		B b = new B(10);
 		// coming from class b
 		b.printB();

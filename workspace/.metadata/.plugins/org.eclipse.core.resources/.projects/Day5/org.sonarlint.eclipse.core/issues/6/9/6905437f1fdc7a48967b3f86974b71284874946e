@@ -1,62 +1,55 @@
 
-k	java:S106N"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ú³µ…¡0HÍ	RMAJORZ
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(¾û’åıÿÿÿÿ8»öñ…¡0HœRMAJORZ
 CODE_SMELL
-k	java:S106C"9Replace this use of System.out or System.err by a logger.(í“¹¥8ú³µ…¡0HÎ	RMAJORZ
-CODE_SMELL
-a
-java:S1481u")Remove this unused "arr2" local variable.(€†¶øÿÿÿÿ8áúé…¡0Hƒ
-RMINORZ
-CODE_SMELL
-p
-java:S1854u"8Remove this useless assignment to local variable "arr2".(€†¶øÿÿÿÿ8áúé…¡0Hù	RMAJORZ
-CODE_SMELL
-p
-java:S1854y"=Remove this useless assignment to local variable "arrString".(µøÇ°8áúé…¡0H
-RMAJORZ
-CODE_SMELL
-k	java:S106h"9Replace this use of System.out or System.err by a logger.(Üìğ•8˜‡ü…¡0Hõ
-RMAJORZ
-CODE_SMELL
-q	java:S106‘"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8“’‡†¡0H¹RMAJORZ
+k	java:S106N"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ú³µ…¡0HRMAJORZ
 CODE_SMELL
 ]
-java:S1197W"*Move the array designators [] to the type.(Ê§…®8€üÒ…¡0Hä	RMINORZ
+java:S1197W"*Move the array designators [] to the type.(Ê§…®8€üÒ…¡0HRMINORZ
 CODE_SMELL
-a	java:S108Š")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ªÅ†¡0HÇRMAJORZ
+p
+java:S1854y"=Remove this useless assignment to local variable "arrString".(µøÇ°8áúé…¡0H¡RMAJORZ
+CODE_SMELL
+a	java:S108Š")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ªÅ†¡0H¢RMAJORZ
+CODE_SMELL
+p	java:S106\"9Replace this use of System.out or System.err by a logger.(óƒ™úÿÿÿÿ8³ùù…¡0H£RMAJORZ
 CODE_SMELL
 b
-java:S1197J"*Move the array designators [] to the type.(š¼„ıÿÿÿÿÿ8ú‘Ê…¡0H×	RMINORZ
+java:S1197J"*Move the array designators [] to the type.(š¼„ıÿÿÿÿÿ8ú‘Ê…¡0H¤RMINORZ
 CODE_SMELL
-p	java:S106\"9Replace this use of System.out or System.err by a logger.(óƒ™úÿÿÿÿ8³ùù…¡0Hå
-RMAJORZ
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(í“¹¥8ú³µ…¡0H§RMAJORZ
 CODE_SMELL
-p	java:S106E"9Replace this use of System.out or System.err by a logger.(¾û’åıÿÿÿÿ8»öñ…¡0HÕ
-RMAJORZ
+k	java:S106H"9Replace this use of System.out or System.err by a logger.(Ä–Áî8´š¾…¡0H¨RMAJORZ
 CODE_SMELL
-n	java:S125c"<This block of commented-out lines of code should be removed.(×ö÷ó8¤›€†¡0H‹RMAJORZ
-CODE_SMELL
-\
-java:S1481m")Remove this unused "arr1" local variable.(²È¥ù8áúé…¡0Hı	RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(´Êòƒşÿÿÿÿ8…‹…†¡0H™RMAJORZ
-CODE_SMELL
-k
-java:S1854m"8Remove this useless assignment to local variable "arr1".(²È¥ù8áúé…¡0Hü	RMAJORZ
-CODE_SMELL
-p	java:S106D"9Replace this use of System.out or System.err by a logger.(Ä×Œüşÿÿÿÿ8ÅÇÁ…¡0HÔ	RMAJORZ
+n	java:S125c"<This block of commented-out lines of code should be removed.(×ö÷ó8¤›€†¡0H©RMAJORZ
 CODE_SMELL
 a
-java:S1481y".Remove this unused "arrString" local variable.(µøÇ°8áúé…¡0HŸ
-RMINORZ
+java:S1481u")Remove this unused "arr2" local variable.(€†¶øÿÿÿÿ8áúé…¡0HªRMINORZ
 CODE_SMELL
-m
-java:S1854q"5Remove this useless assignment to local variable "d".(Ï®±µûÿÿÿÿ8áúé…¡0Hú	RMAJORZ
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(­Âßá8´š¾…¡0H¬RMAJORZ
+CODE_SMELL
+p
+java:S1854u"8Remove this useless assignment to local variable "arr2".(€†¶øÿÿÿÿ8áúé…¡0H­RMAJORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(Ä×Œüşÿÿÿÿ8ÅÇÁ…¡0H®RMAJORZ
+CODE_SMELL
+k	java:S106h"9Replace this use of System.out or System.err by a logger.(Üìğ•8˜‡ü…¡0H¯RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´Êòƒşÿÿÿÿ8…‹…†¡0H°RMAJORZ
+CODE_SMELL
+k
+java:S1854m"8Remove this useless assignment to local variable "arr1".(²È¥ù8áúé…¡0H±RMAJORZ
 CODE_SMELL
 ^
-java:S1481q"&Remove this unused "d" local variable.(Ï®±µûÿÿÿÿ8áúé…¡0H
-RMINORZ
+java:S1481q"&Remove this unused "d" local variable.(Ï®±µûÿÿÿÿ8áúé…¡0H²RMINORZ
 CODE_SMELL
-k	java:S106^"9Replace this use of System.out or System.err by a logger.(­Âßá8´š¾…¡0HÑ	RMAJORZ
+q	java:S106‘"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8“’‡†¡0H´RMAJORZ
 CODE_SMELL
-k	java:S106H"9Replace this use of System.out or System.err by a logger.(Ä–Áî8´š¾…¡0HÒ	RMAJORZ
+a
+java:S1481y".Remove this unused "arrString" local variable.(µøÇ°8áúé…¡0HµRMINORZ
+CODE_SMELL
+\
+java:S1481m")Remove this unused "arr1" local variable.(²È¥ù8áúé…¡0H·RMINORZ
+CODE_SMELL
+m
+java:S1854q"5Remove this useless assignment to local variable "d".(Ï®±µûÿÿÿÿ8áúé…¡0H¹RMAJORZ
 CODE_SMELL
