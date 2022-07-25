@@ -248,9 +248,12 @@ Collection : it is freamwork in java
 List
 Set
 
-		   
+Menu Based Program
 			
-
+Select your choice
+ Press 1 for insert the new employee
+ Press 2 for delete the employee
+ Press 3 for Update employee
 
 
 
