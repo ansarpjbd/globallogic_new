@@ -22,6 +22,7 @@ public class MyLambdaExpression {
 		
 		//you will be able to store the value in variable
 		
+		
 		//you will be able to store the full method in variable--lambda expression
 		//Rule..You should not have any return type
 		     //from return type it will able to understand the return the
