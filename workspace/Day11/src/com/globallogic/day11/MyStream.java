@@ -1,9 +1,11 @@
 package com.globallogic.day11;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.OptionalInt;
+import java.util.function.Consumer;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -18,6 +20,25 @@ public class MyStream {
 
 	public static void main(String[] args) {
 
+		
+		List<String> cities=Arrays.asList("Chennai","Banglore","New Delhi");
+		
+		Consumer<String> printConsumer=t->System.out.println(t);
+		Consumer<List<String>> printConsumerList=list->list.stream().forEach(System.out::println);
+		
+		
+		
+		Consumer<List<String>> upperCaseConsumer=list->{
+			
+			for(int i=0;i<list.size();i++ )
+			{
+				list.set(i,list.get(i).toUpperCase());
+			}
+		};
+		
+		upperCaseConsumer.andThen(printConsumerList).accept(cities);
+		//printConsumer.andThen(printConsumer)
+		
 		// list
 		List<Integer> ls = new ArrayList<Integer>();
 		ls.add(-10);
