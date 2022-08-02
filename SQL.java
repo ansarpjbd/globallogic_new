@@ -1053,6 +1053,4 @@ mysql>alter table employee modify id add primary key ;
 
 
 
-
-
   
